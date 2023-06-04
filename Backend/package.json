@@ -1,0 +1,33 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkarsk98/DSCI551-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omkarsk98/DSCI551-Project/issues"
+  },
+  "homepage": "https://github.com/omkarsk98/DSCI551-Project#readme",
+  "dependencies": {
+    "async": "^3.2.4",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.3.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "mongodb": "^4.12.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "uuid": "^9.0.0"
+  }
+}

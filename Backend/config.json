@@ -1,0 +1,9 @@
+{
+  "mysql": {
+    "host": "edfs75.cwkznrajsymj.us-west-1.rds.amazonaws.com",
+    "port": 3306,
+    "user": "edfs75",
+    "password": "edfs75pass",
+    "database": "edfs75"
+  }
+}
