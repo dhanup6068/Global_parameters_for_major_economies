@@ -1,5 +1,0 @@
-{
-  "backend": {
-    "baseUrl": "http://ec2-54-193-152-11.us-west-1.compute.amazonaws.com:3001/"
-  }
-}
