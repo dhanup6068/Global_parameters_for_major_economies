@@ -1,1 +1,0 @@
-alter table FileMetaData add column path varchar(200) default "/1/";
